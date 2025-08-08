@@ -11,6 +11,8 @@ Tratamento de textos descritivos para análise textual futura.
 
 Este notebook pode ser usado como base para análises estatísticas, visualizações ou aplicações de machine learning com foco em hospedagem.
 
+
+
 🇺🇸 English
 # Project: Hosting Data Analysis
 This project aims to clean and transform a dataset of short-term rental listings, using Python with Pandas and NumPy.
